@@ -1,5 +1,5 @@
 body{
-    background-color: #292a34;
+    background: linear-gradient(to bottom right, #0000ff 3%, #00ff00 100%)
 }
 
 .box{ position: relative;
